@@ -44,4 +44,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
+<a href="https://github.com/harshal-ap/github-readme-activity-graph">
+  <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshal-ap&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
