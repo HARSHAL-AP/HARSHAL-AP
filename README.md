@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **apsundeharshal129@gmail.com**
 
-- ⚡ Fun fact **I think I am and loves to connect to new people.**
+- ⚡ Fun fact ** I am loves to connect  new people. & **I love coding****
 
 
 
