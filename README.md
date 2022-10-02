@@ -1,6 +1,6 @@
 ![MasterHead](https://forum-cdn.zaros.io/monthly_2021_02/Re7244a8c2d4385ccbe6e7cf8436433c3.gif.1850e856aa59c039cbf00fcf1df13706.gif)
 <h1 align="center">Hi 👋, I'm Harshal APsunde</h1>
-<h3 align="center">Observant and intuitive problem-solver, aspiring MEARN developer with specialization in Frontend Desining . Passionate about building user-centric products by translating user requirements into technical solutions.</h3>
+<h3 align="center">Observant and intuitive problem-solver, aspiring MEARN developer with specialization in Frontend development . Passionate about building user-centric products by translating user requirements into technical solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 
