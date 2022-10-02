@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://i.pinimg.com/564x/53/cd/fd/53cdfd21500c75495b7d1cc7ab7b9327.jpg/>
 <h1 align="center">Hi 👋, I'm Harshal Apsunde</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
