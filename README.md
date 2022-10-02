@@ -24,7 +24,7 @@
 <a href="https://instagram.com/harshal_129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshal_129" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshal-ap&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-ap" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal-ap&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-ap" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshal-ap" alt="harshal-ap" /></a> </p>
 
