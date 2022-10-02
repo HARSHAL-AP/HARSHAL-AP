@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **apsundeharshal129@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UMb2FRf6rkk09Bqn8pYch3vacPv98Km9/view?usp=sharing](https://www.canva.com/design/DAFN6agFtkQ/7GoHxZneotTlbrkGshWdsQ/edit?utm_content=DAFN6agFtkQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UMb2FRf6rkk09Bqn8pYch3vacPv98Km9/view?usp=sharing]
 
 - ⚡ Fun fact ** I loves to connect  new people. & **I love coding****
 
