@@ -15,8 +15,9 @@
 
 - 📄 <a href="https://drive.google.com/file/d/1UMb2FRf6rkk09Bqn8pYch3vacPv98Km9/view?usp=sharing"> Know about my experiences </a>
 
-- ⚡ Fun fact ** I loves to connect  new people. & **I love coding****
 - <a href="https://drive.google.com/file/d/1UMb2FRf6rkk09Bqn8pYch3vacPv98Km9/view?usp=sharing">Portfolio </a>
+
+- ⚡ Fun fact ** I loves to connect  new people. & **I love coding****
 
 
 
