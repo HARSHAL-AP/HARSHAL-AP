@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **apsundeharshal129@gmail.com**
 
-- 📄 <a href="[https://drive.google.com/file/d/1UMb2FRf6rkk09Bqn8pYch3vacPv98Km9/view?usp=sharing](https://drive.google.com/file/d/1HsL1hOdjH1F8GQRQpLlbGToDBnMV5Sp7/view?usp=sharing)"> Know about my experiences </a>
+- 📄 <a href="https://drive.google.com/file/d/1HsL1hOdjH1F8GQRQpLlbGToDBnMV5Sp7/view?usp=sharing"> Know about my experiences </a>
 
 - <a href="https://harshal-ap.github.io">Portfolio </a>
 
